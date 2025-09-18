@@ -25,12 +25,11 @@
     </header>
 
     <section id="about">
-        <h2 style="background-color: ; color: #402E7A;"> Neo-JOSH is a company that creates
-            phones,earpods,wristwatches,headphones e.t.c. the company was created by Payne Josh in 2035, and
-            by 2040 it had become ome of the best selling phones all over the world rivalling apple and samsung .At
-            Neo-JOSH we dont just build phones we engineer intelligent devices that suit your every need, weather
-            you are a professional gamer or a tiktoker, it is the best phone you can find anywhere, as it is evident
-            in the sucess over the last five years.</h2>
+        <h2 style="background-color: ; color: #402E7A;"> Neo-JOSH is a company that designs and manufactures phones, earpods, wristwatches, headphones, and more.  
+      The company was founded by Payne Josh in 2035, and by 2040 it had become one of the best-selling phone brands worldwide, rivaling Apple and Samsung.  
+      At Neo-JOSH, we don’t just build phones — we engineer intelligent devices that meet every need.  
+      Whether you are a professional gamer or a content creator, our devices are built to deliver the best performance.  
+      Our success over the last five years is a testament to our commitment to innovation and excellence.</h2>
     </section>
     <div id="fool">
     <H1 id="My products" style="text-align: center; font-size: 50ox;"> My Products</H1>
